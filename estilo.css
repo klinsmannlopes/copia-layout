@@ -177,6 +177,9 @@ h3 {
 	.btn-cus {
 		margin: 10px 15px;
 	}
+	body {
+		overflow: auto;
+	}
 }
 /* sm */
 @media screen and (min-width: 768px) {
